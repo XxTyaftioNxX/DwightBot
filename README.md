@@ -1,5 +1,4 @@
-![index](https://user-images.githubusercontent.com/46070461/132143436-a0eed88e-2feb-41e5-a5be-37b8467043b8.jpg)
-# DwightBot
+# DwightBot                                                     ![index](https://user-images.githubusercontent.com/46070461/132143436-a0eed88e-2feb-41e5-a5be-37b8467043b8.jpg)
  A simple conversational DialoGPT-small model of Dwight from The Office
  
  * The data for this was collected from [foreverdreaming](https://transcripts.foreverdreaming.org/viewforum.php?f=574).  
