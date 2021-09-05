@@ -1,5 +1,5 @@
 # DwightBot
- A simple conversational DialoGPT model if Dwight from The Office
+ A simple conversational DialoGPT-small model of Dwight from The Office
 
 * The data for this was collected from [foreverdreaming](https://transcripts.foreverdreaming.org/viewforum.php?f=574).  
 
@@ -11,4 +11,8 @@
 
 * [DwightSchruteBot](https://discord.com/oauth2/authorize?client_id=884187830870482984&permissions=0&scope=bot) can be added to your server, although the repl needs to be running for the Bot to be active on the server. 
 
-* The bot runs at HuggingFace server if you wanna see (P.S. super laggy)
+* The bot runs at HuggingFace server if you want to try it out (P.S. super laggy adn might run into errors)
+
+**TL;DR** 
+* This Model has perplexity of tensor(6.14) and context_window of 6. The perplexity decreases with the number of epochs but there is no significance improvement in conversation and higher context_window sizes just requires larger training time and seems to make the model more confused.
+* I would recommend trying out microsoft/DialoGPT-medium and training the model with more epochs if you have processing power at your expense. 
