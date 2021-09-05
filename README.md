@@ -5,7 +5,7 @@
 
 * The scraper plus data can be found at [The-Office-Transcripts](https://github.com/XxTyaftioNxX/The-Office-Transcripts)
 
-* The model can be re-used to create conversational bots of similar capabilities (depending on the number of dialouges) of other cast of The Office as well. For which you can just change the vairable *CHARACTER_NAME* to your preffered cast member. (Find out character names that align with the dataset used for examlpe; *Michael Scott* in the series is *Michael* in the dataset :D)
+* The model can be re-used to create conversational bots of similar capabilities (depending on the number of dialouges) of other cast of The Office as well. For which you can just change the vairable *CHARACTER_NAME* to your preferred cast member. (Find out character names that align with the dataset used for examlpe; *Michael Scott* in the series is *Michael* in the dataset :D)
 
 * The model was created using Google Colab and uploaded to HuggingFace and can be found  @[HypNyx/DialoGPT-small-DwightBot](https://huggingface.co/HypNyx/DialoGPT-small-DwightBot?text=Hey+my+name+is+Julien%21+How+are+you%3F)
 
