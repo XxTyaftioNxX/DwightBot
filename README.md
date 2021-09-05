@@ -1,3 +1,4 @@
+![index](https://user-images.githubusercontent.com/46070461/132143436-a0eed88e-2feb-41e5-a5be-37b8467043b8.jpg)
 # DwightBot
  A simple conversational DialoGPT-small model of Dwight from The Office
  
